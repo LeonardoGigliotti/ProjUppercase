@@ -1,0 +1,17 @@
+﻿body {
+}
+
+.carro {
+    background-position: center;
+    background-size: cover;
+    height: 15vh;
+    background-repeat:no-repeat;
+}
+
+.botao {
+    margin-top: 10px;
+}
+
+.linha {
+    text-decoration: none;
+}
