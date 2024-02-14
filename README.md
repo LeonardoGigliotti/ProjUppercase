@@ -1,4 +1,4 @@
-Coloque a sua conection string do SQL no program.cs 
+Altere a conection string do SQL no program.cs com a sua string de coneção
 ----------------------------------------------------------------------------------------------------------------------------------
 Se a migration ja estiver criada exclua e execute os comando no Console:
 ----------------------------------------------------------------------------------------------------------------------------------
