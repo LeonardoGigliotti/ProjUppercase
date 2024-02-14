@@ -1,4 +1,4 @@
-O Projeto foi desenvolvido utilizando o DotNet Core 7.0 em C#, Padrão MVC com Razor Pages, EntityFramework, SqlServer, Bootstrap, Html, CSS, Jquery e JavaScript
+O Projeto foi desenvolvido utilizando o DotNet Framework 7.0 em C#, Padrão MVC com Razor Pages, EntityFramework, SqlServer, Bootstrap, Html, CSS, Jquery e JavaScript
 
 Altere a conection string do SQL no program.cs com a sua string de coneção
 ----------------------------------------------------------------------------------------------------------------------------------
